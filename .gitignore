@@ -1,5 +1,5 @@
 node_modules/
 ESIEE/
-dist/
-.vscode/
+dist
+.vscode
 
