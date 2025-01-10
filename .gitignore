@@ -2,7 +2,4 @@ node_modules/
 ESIEE/
 dist/
 .vscode/
-src/app.ts
-src/lcd.ts
-src/wallet1.ts
-src/mastermind.ts
+
