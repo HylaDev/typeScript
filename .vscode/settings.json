@@ -1,0 +1,5 @@
+{
+    "files.autoSaveWorkspaceFilesOnly": true,
+    "workbench.statusBar.visible": true,
+    "workbench.layoutControl.type": "both"
+}
